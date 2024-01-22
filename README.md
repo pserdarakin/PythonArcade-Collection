@@ -1,6 +1,6 @@
 ## Projects
 1. Turtle-race: 6 turtles in rainbow colors will race to final at random speed. Type a rainbow color to bet on it!  
-![Turtle-race](https://github.com/pserdarakin/PythonArcade-Collection/tree/main/Turtle%20Race)  
+![Turtle-race](https://github.com/pserdarakin/PythonArcade-Collection/blob/main/gif/turtle-race.gif)  
 
 2. Snake-game: Classic snake game written in python3, use Up, Down, Left, Right arrow key to control the snake eating food, game over if touch wall or its tails!  
 ![Snake-game](https://github.com/pserdarakin/PythonArcade-Collection/tree/main/Snake)  
